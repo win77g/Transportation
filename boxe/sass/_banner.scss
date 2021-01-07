@@ -2,7 +2,7 @@
 .banner_part{
     height: 835px;
     position: relative;
-    background-image: url(../img/banner_bg.png);
+    background-image: url(/boxe/img/banner_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -281,7 +281,7 @@
     }
     &:after{
         content: "";
-        background-image: url(../img/icon/right-arrow.svg);
+        background-image: url(/boxe/img/icon/right-arrow.svg);
         background-size: 20px;
         background-repeat: no-repeat;
         background-position: center;

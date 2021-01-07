@@ -136,7 +136,7 @@ jQuery(document).ready(function($) {
 		    smartSpeed: 1000,
 		    autoplay: true,
 		    nav: true,
-				navText: ['<span class="icon-arrow_back">', '<span class="icon-arrow_forward">'],
+				navText: ['<span class="fa fa-arrow_back">', '<span class="fa fa-arrow_forward">'],
 		    responsive:{
 	        600:{
 	        	margin: 0,
@@ -170,7 +170,7 @@ jQuery(document).ready(function($) {
 	    pauseOnHover: false,
 	    dots: true,
 	    nav: true,
-	    navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
+	    navText: ['<span class="fa fa-keyboard_arrow_left">', '<span class="fa fa-keyboard_arrow_right">']
 	  });
 
 	  if ( $('.owl-all').length > 0 ) {
@@ -186,7 +186,7 @@ jQuery(document).ready(function($) {
 		    touchDrag: true,
   			mouseDrag: true,
   			smartSpeed: 1000,
-				navText: ['<span class="icon-arrow_back">', '<span class="icon-arrow_forward">'],
+				navText: ['<span class="fa fa-arrow_back">', '<span class="fa fa-arrow_forward">'],
 		    responsive:{
 	        768:{
 	        	margin: 30,

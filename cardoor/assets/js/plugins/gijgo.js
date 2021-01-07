@@ -2158,7 +2158,7 @@ gj.grid.config = {
     base: {
         /** The data source for the grid.
          * @additionalinfo If set to string, then the grid is going to use this string as a url for ajax requests to the server.<br />
-         * If set to object, then the grid is going to use this object as settings for the <a href="/cardoor/http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
+         * If set to object, then the grid is going to use this object as settings for the <a href="http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
          * If set to array, then the grid is going to use the array as data for rows.
          * @type (string|object|array)
          * @default undefined
@@ -3147,7 +3147,7 @@ gj.grid.config = {
          *             { field: 'ID', width: 70 },
          *             { field: 'Name' },
          *             { field: 'PlaceOfBirth' } ,
-         *             { tmpl: '<a href="/cardoor/#">click me</a>', events: { click: function(e) { alert('Your id is ' + e.data.id); } }, width: 100, stopPropagation: true } 
+         *             { tmpl: '<a href="#">click me</a>', events: { click: function(e) { alert('Your id is ' + e.data.id); } }, width: 100, stopPropagation: true } 
          *         ]
          *     });
          * </script>
@@ -3165,7 +3165,7 @@ gj.grid.config = {
          *             { field: 'ID', width: 70 },
          *             { field: 'Name' },
          *             { field: 'PlaceOfBirth' } ,
-         *             { tmpl: '<a href="/cardoor/#">click me</a>', events: { click: function(e) { alert('Your id is ' + e.data.id); } }, width: 100, stopPropagation: true } 
+         *             { tmpl: '<a href="#">click me</a>', events: { click: function(e) { alert('Your id is ' + e.data.id); } }, width: 100, stopPropagation: true } 
          *         ]
          *     });
          * </script>
@@ -8673,7 +8673,7 @@ gj.tree.config = {
 
         /** The data source of tree.
          * @additionalinfo If set to string, then the tree is going to use this string as a url for ajax requests to the server.<br />
-         * If set to object, then the tree is going to use this object as settings for the <a href="/cardoor/http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
+         * If set to object, then the tree is going to use this object as settings for the <a href="http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
          * If set to array, then the tree is going to use the array as data for tree nodes.
          * @type (string|object|array)
          * @default undefined
@@ -12087,7 +12087,7 @@ gj.dropdown.config = {
 
         /** The data source of dropdown.
          * @additionalinfo If set to string, then the dropdown is going to use this string as a url for ajax requests to the server.<br />
-         * If set to object, then the dropdown is going to use this object as settings for the <a href="/cardoor/http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
+         * If set to object, then the dropdown is going to use this object as settings for the <a href="http://api.jquery.com/jquery.ajax/" target="_new">jquery ajax</a> function.<br />
          * If set to array, then the dropdown is going to use the array as data for dropdown nodes.
          * @type (string|object|array)
          * @default undefined
@@ -12836,7 +12836,7 @@ gj.datepicker.config = {
          * <b>dd</b> - Day of the month as digits; leading zero for single-digit days.<br/>
          * <b>m</b> - Month as digits; no leading zero for single-digit months.<br/>
          * <b>mm</b> - Month as digits; leading zero for single-digit months.<br/>
-         * <b>mmm</b> - Month as a three-letter acardoorreviation.<br/>
+         * <b>mmm</b> - Month as a three-letter abbreviation.<br/>
          * <b>mmmm</b> - Month as its full name.<br/>
          * <b>yy</b> - Year as last two digits; leading zero for years less than 10.<br/>
          * <b>yyyy</b> - Year represented by four digits.<br/>

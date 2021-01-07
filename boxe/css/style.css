@@ -2492,7 +2492,7 @@ ul {
 .banner_part {
   height: 835px;
   position: relative;
-  background-image: url(../img/banner_bg.png);
+  background-image: url(/boxe/img/banner_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2893,7 +2893,7 @@ ul {
 /* line 282, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_banner.scss */
 .input-phone:after {
   content: "";
-  background-image: url(../img/icon/right-arrow.svg);
+  background-image: url(/boxe/img/icon/right-arrow.svg);
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
@@ -5045,7 +5045,7 @@ h6 {
 
 /* line 798, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5087,7 +5087,7 @@ h6 {
 
 /* line 835, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5135,7 +5135,7 @@ h6 {
 
 /* line 876, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5177,7 +5177,7 @@ h6 {
 
 /* line 913, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5219,7 +5219,7 @@ h6 {
 
 /* line 950, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5267,7 +5267,7 @@ h6 {
 
 /* line 991, ../../01 cl html template/New folder/May 2019/177 Logistics/Logistic Template/sass/_elements.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(/boxe/img/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
